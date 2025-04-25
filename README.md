@@ -6,7 +6,7 @@ In order to use just specify a name of a program you want to run and arguments i
 Here is an example:
 
 ```
-retvalwrap echo "hello world"
+> retvalwrap echo "hello world"
 
 
 
